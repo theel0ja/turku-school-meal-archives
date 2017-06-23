@@ -2,10 +2,6 @@
  * (C) 2017 Elias Ojala
  */
 
-function cb() {
-    console.log("foo bar!");
-}
-
 function showArchives(cityName, schoolType, contentElement) {
     // https://api.github.com/repos/theel0ja/turku-school-meal-archives/contents/turku/alakoulu
 
